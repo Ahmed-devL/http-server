@@ -1,0 +1,13 @@
+# Compiled binaries
+server
+*.o
+*.out
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# General OS files
+Thumbs.db
